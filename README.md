@@ -29,7 +29,7 @@ reservoir-ml-analysis/
 
 The model predicts water level over time, producing a plot like this:
 
-![C:\Users\Mahesh\Downloads\water_level_prediction.png](water_level_prediction.png)
+![[C:\Users\Mahesh\Downloads\water_level_prediction.png](https://github.com/mahesh-cuber24/reservoir-data-analysis-with-ML/blob/main/water_level_prediction.png)](water_level_prediction.png)
 
 ## 🛠️ Installation & Setup
 
